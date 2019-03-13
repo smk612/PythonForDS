@@ -1,0 +1,19 @@
+http://greenteapress.com/wp/think-python-2e/
+
+http://docs.python-guide.org/en/latest/intro/learning/
+
+https://python.swaroopch.com/
+
+
+http://interactivepython.org/runestone/static/pythonds/index.html
+
+
+https://docs.python.org/3/tutorial/datastructures.html
+
+http://interactivepython.org/runestone/static/pythonds/Introduction/GettingStartedwithData.html#built-in-collection-data-types
+
+Tuples are data structures that are similar to lists in all aspects except in the way they are declared and how much they allow themselves to be modified. A tuple once created cannot be modified.
+
+https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
+
+https://docs.python.org/3/tutorial/datastructures.html#dictionaries
